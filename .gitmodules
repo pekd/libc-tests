@@ -1,0 +1,3 @@
+[submodule "libc-testsuite"]
+	path = libc-testsuite
+	url = git://git.musl-libc.org/libc-testsuite
